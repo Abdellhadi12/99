@@ -1,6 +1,6 @@
-token=NTI1OTk3ODY3MjQ5NDM0NjI0.Dv-2hA.GXu4FedwcYW1y7m_H2hq3J281Mg
-owner= 517844009301835776
-prefix= 1
-game= I dk ._.
+token=NTU1NDg3MjM1MjY5NDU5OTY4.D2r5dw.9X3o4pbbdp2xEBfIr8HcfHxAckQ
+owner= 554627465297788938
+prefix= 2
+game= "I want to feel that I am in good shape!"
 stayinchannel=true
-songinstatus=true 
+songinstatus=false 
